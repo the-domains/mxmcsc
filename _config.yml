@@ -1,7 +1,7 @@
 name: mxmcsc
 favicon: null
-layout_spectrum: 0.5777783442754298
-typography_spectrum: 0.9302206477150321
+layout_spectrum: 0
+typography_spectrum: 0.20632
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.8207954030949622
+  brandStrength: 0.75
   lightness: 0.4732106684241444
   saturation: 0.114174441434443
   rhythmicContrast: 0.292018722044304
