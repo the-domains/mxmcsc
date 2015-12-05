@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mxmcsc]]></title>
         <description><![CDATA[mxmcsc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mxmcsc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 09:20:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 09:58:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mxmcsc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Moi]]></title>
-            <description><![CDATA[<article><h1>Moi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8c7ce04-3ec1-4eaf-a21c-84974e8a29fd.png"></article>]]></description>
-            <link>undefinedmoi/index.html</link>
+            <description><![CDATA[<article><h1>Moi</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1f3c204ab8ab39adfbcdfa52326a16a6eb29977.png"></article>]]></description>
+            <link>https://thegrid.ai/mxmcsc/moi/index.html</link>
             <guid isPermaLink="false">237884e4-96ad-4f52-8674-9062d070feee</guid>
-            <pubDate>Sat, 05 Dec 2015 09:20:10 GMT</pubDate>
+            <pubDate>Sat, 05 Dec 2015 09:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
